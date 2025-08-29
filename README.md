@@ -20,6 +20,7 @@ This is a simple Task Manager API built using Node.js and Express.js
    ```bash
    git clone https://github.com/BobDempsey/task-mgr-api
    cd task-mgr-api
+   code . to open in VS Code
    ```
 
 2. Install dependencies:
@@ -50,6 +51,10 @@ This is a simple Task Manager API built using Node.js and Express.js
 | GET    | `/tasks/:id` | Get a task by ID    |
 | PATCH  | `/tasks/:id` | Update a task by ID |
 | DELETE | `/tasks/:id` | Delete a task by ID |
+
+## Misc
+
+- [conventional git commit messages](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## License
 
